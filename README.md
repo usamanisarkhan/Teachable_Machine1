@@ -1,6 +1,6 @@
 Here is a ready-to-use `README.md` file for your Teachable Machine model.
 https://teachablemachine.withgoogle.com/models/qlqjwznH-/
-Since I couldn't access the internal metadata of your model to see the specific class names (e.g., "Dog", "Cat", "Background Noise"), I have added **[Placeholders]** where you should fill in those details.
+Since I couldn't access the internal metadata of your model to see the specific class names (e.g., "Dog", "Cat", "Background Noise"),  I have added **[Placeholders]** where you should fill in those details.
 
 ---
 
